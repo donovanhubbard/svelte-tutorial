@@ -10,3 +10,6 @@
 <div>
     {greeting}
 </div>
+<div>
+    <a href="/">Home</a>
+</div>
